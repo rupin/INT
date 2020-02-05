@@ -1,4 +1,4 @@
 # INT
-* Rupin
+### Rupin
 
-** Chheda
+## Chheda
